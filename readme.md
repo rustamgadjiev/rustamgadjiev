@@ -1,51 +1,14 @@
-# Привет, я [Ваше Имя] 👋
+<br>
+<div align="left">
+  <strong>Skills:</strong>
+  <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</div>
+<br>
 
-![Ваше фото](https://via.placeholder.com/150) <!-- Замените на URL вашего фото -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rustamgadjiev&theme=prussian&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
-## О себе
-
-Я начинающий Frontend-разработчик с опытом работы с **Next.js**, **Firebase**, **TypeScript** и **Tailwind CSS**. Я увлечен созданием красивых и функциональных веб-приложений и постоянно стремлюсь улучшать свои навыки.
-
-## 🔧 Технологии
-
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Next.js
-- **Backend**: Firebase
-- **Стилевые библиотеки**: Tailwind CSS, Bootstrap
-- **Инструменты**: Git, GitHub, VS Code
-
-## 🌟 Проекты
-
-Вот некоторые из моих проектов, которые демонстрируют мои навыки:
-
-1. **[Название проекта 1](https://github.com/ваш-логин/ваш-репозиторий-1)**  
-   Краткое описание проекта. Используемые технологии: Next.js, Firebase, TypeScript, Tailwind CSS.
-
-2. **[Название проекта 2](https://github.com/ваш-логин/ваш-репозиторий-2)**  
-   Краткое описание проекта. Используемые технологии: Next.js, Firebase, TypeScript, Tailwind CSS.
-
-3. **[Название проекта 3](https://github.com/ваш-логин/ваш-репозиторий-3)**  
-   Краткое описание проекта. Используемые технологии: Next.js, Firebase, TypeScript, Tailwind CSS.
-
-## 📫 Связаться со мной
-
-- **Email**: [ваш_email@example.com](mailto:ваш_email@example.com)
-- **LinkedIn**: [Ваш профиль LinkedIn](https://www.linkedin.com/in/ваш-профиль)
-- **Twitter**: [Ваш Twitter](https://twitter.com/ваш_ник)
-
-## 🌱 Я учусь
-
-В данный момент я изучаю:
-
-- [Технология или тема, которую вы изучаете]
-- [Технология или тема, которую вы изучаете]
-- [Технология или тема, которую вы изучаете]
-
-## 📈 Статистика
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваш-логин&show_icons=true&theme=radical) <!-- Замените на ваш логин -->
-
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-логин&layout=compact&theme=radical) <!-- Замените на ваш логин -->
-
----
-
-Спасибо за посещение моего профиля! 😊
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustamgadjiev&layout=compact&theme=prussian&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
