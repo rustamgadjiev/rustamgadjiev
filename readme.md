@@ -2,7 +2,7 @@
 <div align="left">
   <strong>Skills:</strong>
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg](https://res.cloudinary.com/ddxwdqwkr/image/upload/f_auto/v1689120136/patterns.dev/Images/vue/og-images/introduction.png"  title="VUE" alt="VUE" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"  title="VUE" alt="VUE" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="Pinia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="Tailwind" width="40" height="40"/>&nbsp;
 </div>
