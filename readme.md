@@ -2,10 +2,9 @@
 <div align="left">
   <strong>Skills:</strong>
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="NEXT" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="VUE" alt="VUE" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="Pinia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"  title="Firebase" width="40" height="40"/>&nbsp;
 </div>
 <br>
 
