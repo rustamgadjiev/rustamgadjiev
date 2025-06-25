@@ -2,7 +2,7 @@
 <div align="left">
   <strong>Skills:</strong>
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"  title="VUE" alt="VUE" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"  title="VUE" alt="VUE" width="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1369px-Pinialogo.svg.png"  title="Pinia" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="Tailwind" width="40"/>&nbsp;
 </div>
